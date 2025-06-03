@@ -2,7 +2,7 @@
 
 **Supplementary Material**
 
-This repository accompanies the paper *"Enriching Ontology-based Data Management with Multidimensional Modeling"*. It provides supplementary material, including implementation details and a detailed running example, which expands and clarifies the concepts introduced in the paper.
+This repository accompanies the paper *"Enriching Ontology-based Data Management with Multidimensional Modeling"*. It provides supplementary material mainly regarding implementation details.
 
 ## Overview
 
