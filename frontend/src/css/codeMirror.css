@@ -1,0 +1,56 @@
+.CodeMirror-hints, .CodeMirror-lint-tooltip{
+  z-index: 1000 !important;
+}
+
+/* .mappingEditor .CodeMirror-scroll {
+  padding: 0 !important;
+} */
+
+/* .mappingEditor .cm-keyword {
+  color: rgb(244, 138, 60) !important;
+} */
+
+.mappingEditor .cm-bracket {
+  color: black !important;
+}
+/* .mappingEditor .cm-comment {
+  color: aqua !important;
+}
+
+.mappingEditor .cm-string {
+  color: greenyellow !important;
+} */
+
+.mappingEditor .CodeMirror-gutters {
+  border-right: 1px solid #ddd;
+  white-space: nowrap;
+}
+
+.mappingEditor .CodeMirror-linenumber {
+  padding: 0 3px 0 5px;
+  min-width: 20px;
+  text-align: center;
+  color: #999;
+  white-space: nowrap;
+}
+
+.mappingEditor .CodeMirror {
+  line-height: 21px;
+  border-radius: 4px;
+}
+
+.mappingEditor .CodeMirror-hint {
+  color: white !important;
+}
+
+.mappingEditor .CodeMirror-hints {
+  background-color: var(--medium);
+}
+
+.mappingEditor .CodeMirror {
+  background-color: rgb(136, 148, 163) !important;
+}
+
+.mappingEditor .CodeMirror-gutters {
+  background-color: rgb(87, 102, 121) !important;
+}
