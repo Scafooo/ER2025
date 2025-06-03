@@ -1,6 +1,6 @@
 # Enriching Ontology-based Data Management with Multidimensional Modeling
 
-**Anonymous Repository – Supplementary Material**
+**Supplementary Material**
 
 This repository accompanies the paper *"Enriching Ontology-based Data Management with Multidimensional Modeling"*. It provides supplementary material, including implementation details and a detailed running example, which expands and clarifies the concepts introduced in the paper.
 
@@ -36,11 +36,9 @@ We enhanced the **Monolith** interface (the user-facing component of Mastro) wit
 
 ## Repository Contents
 
-- `views/`: Example SPARQL view definitions
-- `hierarchies/`: Sample hierarchies used in the S4Y pilot
-- `cubes/`: Definitions of base and derived data cubes
-- `screenshots/`: UI screenshots used in the appendix
-- `example.ttl`: Ontology fragment in Turtle format
+- `figures/`: UI screenshots
+- `backend/`: Sample hierarchies used in the S4Y pilot
+- `frontend/`: Definitions of base and derived data cubes
 - `README.md`: This document
 
 ## Citation
