@@ -47,5 +47,6 @@ We enhanced the **Monolith** interface (the user-facing component of Mastro) wit
 - `figures/`: UI screenshots
 - `backend/`: Java BackendCode
 - `frontend/`: UI Code
+- `specification/`: ontology
 - `README.md`: This document
 
