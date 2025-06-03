@@ -12,11 +12,10 @@ This work extends the traditional Ontology-Based Data Management (OBDM) paradigm
 - Intentional aggregation
 - Holistic query answering that spans both analytical and domain-level data
 
-## Implementation
+## Implementation (Backend)
 
 The framework has been implemented as an extension of the [Mastro](https://obdasystems.com) OBDM system. Mastro supports OWL ontologies, SPARQL queries, and R2RML or XML-based mapping definitions.
 
-We built our extension within the **INTERSTAT** project, which focuses on semantic integration of statistical, territorial, and administrative data. The showcased use case, called **School for You (S4Y)**, involves cross-country data integration (Italy and France) on school attendance and educational services.
 
 ## User Interface
 
